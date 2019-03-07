@@ -1,0 +1,40 @@
+body {
+    color: #737373;
+    font-size: 10px;
+    font-family: verdana;
+}
+
+p{
+    font-size: 14px;
+}
+
+input[type="text"]{
+    display: none;
+}
+
+input[type="password"]{
+    display: none;
+}
+
+#btnEnviar {
+    background-color: rgb(70, 187, 202);
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: none;
+    font-size: 16px;
+  
+}
+
+.formulario{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+video {
+    width: 100%;
+    height: auto;
+  }
